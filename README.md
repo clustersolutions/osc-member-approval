@@ -33,4 +33,6 @@ Installation:
     
        'link' => tep_href_link('customers_member_approval.php') 
 
-Initial release, additional documentation to come...
+Initial release, a simple tutorial...
+
+   http://www.clustersolutions.net/2015/07/31/member-approval-add-on-for-responsive-oscommerce/
